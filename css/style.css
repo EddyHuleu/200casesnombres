@@ -16,6 +16,18 @@ body{
     box-shadow:1px 0px 10px black;
 }
 
+#liste{
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+section{
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 ul{
 	margin: 40px;
 	padding: 20px;
@@ -31,12 +43,23 @@ li{
 	color: #cc8567;
 	height: 39px;
 	width: 39px;
+	border: 1px solid black;
 	list-style-type: none;
 	text-align: center;
 	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	border: 1px solid black;
 	border: 1px solid;
     border-radius:10px 10px 10px 10px;
+}
+
+
+li:hover {
+	background: #28260d;
+}
+li a {
+	color: #2a1133;
+	text-decoration : none;
 }
