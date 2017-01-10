@@ -1,10 +1,9 @@
-Une page html avec une liste de nombre, un titre H1 appelée "ma liste"
-Une jolie page
-Chaque nombre dans une petite case qui fasse 40px de cotés (long/large) case avec un coté noir
-Tout les nombres cotes a cotes
+Exercice 10 Janvier 2017
 
-
-RESPONSIVE
-
-
-Il faut 200 cases
+- Une liste de nombres.
+- Un titre H1 appelé "Ma liste".
+- Faire une jolie page en css (background/police/etc..)
+- Chaque nombre doit être contenu dans une case qui fasse 40 px en long et en large.
+- Mettre une bordure pour les cases(noir).
+- Tout les nombres doivent être côte à côte.
+- La page doit être responsive.
