@@ -55,6 +55,10 @@ li{
     border-radius:10px 10px 10px 10px;
 }
 
+li:nth-child(odd) {
+	background-color: #FFF;
+}
+
 
 li:hover {
 	background: #28260d;
